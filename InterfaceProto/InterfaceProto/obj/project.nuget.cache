@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ArmHsViXOvq8mluSwwMXkHuF8FKNzOhM25EAFUKNKpXwjDYeBuWVz+rFEIudXEz2QIfFcjJELcGN3Uh5iHYEJQ==",
+  "success": true,
+  "projectFilePath": "C:\\home\\github\\JoystickTrading\\InterfaceProto\\InterfaceProto\\InterfaceProto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lawre\\.nuget\\packages\\angular.material\\1.1.12\\angular.material.1.1.12.nupkg.sha512",
+    "C:\\Users\\lawre\\.nuget\\packages\\angularjs.animate\\1.6.4\\angularjs.animate.1.6.4.nupkg.sha512",
+    "C:\\Users\\lawre\\.nuget\\packages\\angularjs.aria\\1.6.4\\angularjs.aria.1.6.4.nupkg.sha512",
+    "C:\\Users\\lawre\\.nuget\\packages\\angularjs.core\\1.6.4\\angularjs.core.1.6.4.nupkg.sha512",
+    "C:\\Users\\lawre\\.nuget\\packages\\materialdesigncolors\\2.0.4\\materialdesigncolors.2.0.4.nupkg.sha512",
+    "C:\\Users\\lawre\\.nuget\\packages\\materialdesignthemes\\4.3.0\\materialdesignthemes.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
